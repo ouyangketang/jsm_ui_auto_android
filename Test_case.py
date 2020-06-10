@@ -6,7 +6,7 @@ import Config
 import Element
 import pytest
 import time
-#from flaky import flaky
+from flaky import flaky
 
 class Test():
     def wait(self):
@@ -17,7 +17,7 @@ class Test():
         self.driver = webdriver.Remote('http://0.0.0.0:4444/wd/hub', Config.desired_caps)
 
     @pytest.mark.case()
-    #@flaky(max_runs=3, min_passes=1)
+    @flaky(max_runs=3, min_passes=1)
     def test_pwdlogin(self):
         self.startapp()
         self.driver.find_element_by_id(Element.onekey_register_topwd).click()
