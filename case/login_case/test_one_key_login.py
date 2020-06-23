@@ -13,6 +13,11 @@ class Test_One_Key_Login():
         test_login = One_Key_login(app)     # 调用登录的类
         test_login.one_key_login01()        # 调用第一个登录函数
 
+        res = test_login.get_login_sucess()
+        print(res)
+        exp = "用户352"
+        assert res in exp
+
     @allure.story("第二条一键登录用例")
     def test_login02(self):
         app = start_app()
@@ -21,9 +26,9 @@ class Test_One_Key_Login():
 
         res = test_login.get_login_sucess()
         print(res)
-        exp = "用户5062"
+        exp = "用户352"
         assert res in exp
 
 if __name__ == '__main__':
-    pytest.main(['-v','test_one_key_login.py',"--alluredir=login_report"])
+    pytest.main(['-v','test_one_key_login.py'])
 

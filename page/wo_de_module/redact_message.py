@@ -26,8 +26,7 @@ class Redact_Message(BaseApp):
         self.driver.find_element_by_id("com.coloros.gallery3d:id/action_apply").click()     #裁剪照片-确定按钮
 
     def update_nickname(self,nickname='柯基小王子'):
-        app=start_app()
-        test_login  = Test_Pwd_Login(app)
+        test_login  = Test_Pwd_Login(self.driver)
         test_login.pwd_login06()            # 登录方法到个人中心
 
         self.wait()
@@ -46,9 +45,8 @@ class Redact_Message(BaseApp):
         result = self.get_text("com.jsmapp.jsm:id/personal_name")
         return result
 
-    def update_sex(self,sex_text = '其他'):
-        app=start_app()
-        test_login  = Test_Pwd_Login(app)
+    def update_sex(self,sex_text = '男'):
+        test_login  = Test_Pwd_Login(self.driver)
         test_login.pwd_login06()            # 登录方法到个人中心
         self.wait()
         self.driver.find_element_by_id("com.jsmapp.jsm:id/me_user_layout").click()      # 点击个人信息按钮
@@ -65,18 +63,14 @@ class Redact_Message(BaseApp):
             self.driver.find_element_by_id("com.jsmapp.jsm:id/tvOther").click()
 
     def update_adress(self):
-        app=start_app()
-        test_login  = Test_Pwd_Login(app)
+        test_login  = Test_Pwd_Login(self.driver)
         test_login.pwd_login06()            # 登录方法到个人中心
         self.wait()
         self.driver.find_element_by_id("com.jsmapp.jsm:id/me_user_layout").click()      # 点击个人信息按钮
         self.wait()
-        address = self.driver.find_element_by_id("com.jsmapp.jsm:id/ll_get_region").click()       # 点击地址栏目
-        # self.driver.swipe(address,start_x=0,start_y=36,end_x=0,end_y=1191,duration=3)   #滑动第三页
+        self.driver.find_element_by_id("com.jsmapp.jsm:id/ll_get_region").click()       # 点击地址栏目
         time.sleep(2)
-        # self.driver.swipe(start_x=360,start_y=214,end_x=360,end_y=1192,duration=1)  #滑动第一页
-        test_login.swipe_up()
-        # self.driver.swipe(start_x=125,start_y=1193,end_x=0,end_y=720,duration=2)   #滑动第二页
+        test_login.swipe_up()       # 调用滑动方法
         self.driver.find_element_by_xpath("//*[@text='贵州省']").click()               #选择省份
         self.driver.find_element_by_xpath("//*[@text='铜仁市']").click()
         self.driver.find_element_by_xpath("//*[@text='思南县']").click()
@@ -84,8 +78,7 @@ class Redact_Message(BaseApp):
         # self.driver.keyevent(keycode=4)
 
     def update_date(self):
-        app=start_app()
-        test_login  = Test_Pwd_Login(app)
+        test_login  = Test_Pwd_Login(self.driver)
         test_login.pwd_login06()            # 登录方法到个人中心
         self.wait()
         self.driver.find_element_by_id("com.jsmapp.jsm:id/me_user_layout").click()      # 点击个人信息按钮
