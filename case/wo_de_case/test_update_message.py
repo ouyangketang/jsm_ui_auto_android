@@ -8,16 +8,16 @@ class Test_Update_Message():
     @pytest.mark.po
     @flaky(max_runs=1,min_passes=1)
 
-    @allure.story("第一条测试用例:拍照上传头像")
-    def test_update_photo(self):
-        app =start_app()
-        test_update = Redact_Message(app)
-
-        test_update.update_photo()
-        res = test_update.is_toast_in("保存成功")
-        print(res)
-        exp = "保存成功"
-        assert res != exp
+    # @allure.story("第一条测试用例:拍照上传头像")
+    # def test_update_photo(self):
+    #     app =start_app()
+    #     test_update = Redact_Message(app)
+    #
+    #     test_update.update_photo()
+    #     res = test_update.is_toast_in("保存成功")
+    #     print(res)
+    #     exp = "保存成功"
+    #     assert res != exp
 
     @allure.story("第二条用例:修改昵称")
     def test_update_nickname(self):

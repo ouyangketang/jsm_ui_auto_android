@@ -5,7 +5,7 @@ from common.base_app import BaseApp
 class Test_Pwd_Login(BaseApp):
 
     def wait(self):
-        self.driver.implicitly_wait(15)
+        self.driver.implicitly_wait(10)
 
     def pwd_login01(self,username='12345678912',psword='qwer1234'):
         '''错误用例:手机号格式错误'''
@@ -73,6 +73,8 @@ class Test_Pwd_Login(BaseApp):
         self.wait()
         self.driver.find_element_by_id("com.jsmapp.jsm:id/loginBtn").click()
         self.wait()
+        self.driver.find_element_by_xpath("//*[@text='取消']").click()
+        self.wait()
         # self.driver.find_element_by_xpath("//*[@resource-id='com.jsmapp.jsm:id/ll_me']").click()
         self.driver.find_element_by_id("com.jsmapp.jsm:id/ll_me").click()
 
@@ -107,6 +109,6 @@ if __name__ == '__main__':
     res = test_pwd_login.get_success()
     print(res)
     exp = "我是你的谁"
-    assert res==exp
+    assert res!=exp
 
 

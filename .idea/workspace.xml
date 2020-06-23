@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90bac012-eefd-48cb-87f9-bd4dcd56a80a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/case/login_case/login_report/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/case/wo_de_case/update_message_report/__init__.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/common/start.py" afterPath="$PROJECT_DIR$/common/start.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case/login_case/test_one_key_login.py" afterPath="$PROJECT_DIR$/case/login_case/test_one_key_login.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/case/wo_de_case/test_update_message.py" afterPath="$PROJECT_DIR$/case/wo_de_case/test_update_message.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/login_module/one_key_login.py" afterPath="$PROJECT_DIR$/page/login_module/one_key_login.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/login_module/pwd_login.py" afterPath="$PROJECT_DIR$/page/login_module/pwd_login.py" />
     </list>
     <ignored path="JSM_UI_Android.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -17,21 +22,22 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/JSM_UI_Android$redact_message.coverage" NAME="redact_message Coverage Results" MODIFIED="1592539129477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page/wo_de_module" />
-    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_Update_Message.coverage" NAME="py.test in Test_Update_Message Coverage Results" MODIFIED="1592536904339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/JSM_UI_Android$redact_message.coverage" NAME="redact_message Coverage Results" MODIFIED="1592880617510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page/wo_de_module" />
+    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_Update_Message.coverage" NAME="py.test in Test_Update_Message Coverage Results" MODIFIED="1592880249091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_Update_Message_and_test_update_addresss.coverage" NAME="py.test in Test_Update_Message and test_update_addresss Coverage Results" MODIFIED="1592790223521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/JSM_UI_Android$one_key_login.coverage" NAME="one_key_login Coverage Results" MODIFIED="1592462926682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page/login_module" />
-    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_Update_Message_and_test_update_photo.coverage" NAME="py.test in Test_Update_Message and test_update_photo Coverage Results" MODIFIED="1592789728119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_Update_Message_and_test_update_photo.coverage" NAME="py.test in Test_Update_Message and test_update_photo Coverage Results" MODIFIED="1592875357372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/JSM_UI_Android$one_key_login.coverage" NAME="one_key_login Coverage Results" MODIFIED="1592878443141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page/login_module" />
     <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_One_Key_Login.coverage" NAME="py.test in Test_One_Key_Login Coverage Results" MODIFIED="1592465140092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_Update_Message_and_test_update_sex.coverage" NAME="py.test in Test_Update_Message and test_update_sex Coverage Results" MODIFIED="1592536764762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_One_Key_Login_and_test_login01.coverage" NAME="py.test in Test_One_Key_Login and test_login01 Coverage Results" MODIFIED="1592465182758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_test_update_message_py.coverage" NAME="py.test in test_update_message.py Coverage Results" MODIFIED="1592880513594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/JSM_UI_Android$start.coverage" NAME="start Coverage Results" MODIFIED="1592804843566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_One_Key_Login_and_test_login01.coverage" NAME="py.test in Test_One_Key_Login and test_login01 Coverage Results" MODIFIED="1592877423123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_Pwd_Login_Case_and_test_pwd_login05.coverage" NAME="py.test in Test_Pwd_Login_Case and test_pwd_login05 Coverage Results" MODIFIED="1592464465071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/JSM_UI_Android$pwd_login.coverage" NAME="pwd_login Coverage Results" MODIFIED="1592452470253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page/login_module" />
-    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_Update_Message_and_test_update_nickname.coverage" NAME="py.test in Test_Update_Message and test_update_nickname Coverage Results" MODIFIED="1592790008405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_One_Key_Login_and_test_login02.coverage" NAME="py.test in Test_One_Key_Login and test_login02 Coverage Results" MODIFIED="1592464034275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/JSM_UI_Android$pwd_login.coverage" NAME="pwd_login Coverage Results" MODIFIED="1592876673833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page/login_module" />
+    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_Update_Message_and_test_update_nickname.coverage" NAME="py.test in Test_Update_Message and test_update_nickname Coverage Results" MODIFIED="1592880457513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_test_pwd_login_py.coverage" NAME="py.test in test_pwd_login.py Coverage Results" MODIFIED="1592464200281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_test_one_key_login_py.coverage" NAME="py.test in test_one_key_login.py Coverage Results" MODIFIED="1592806150200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_One_Key_Login_and_test_login02.coverage" NAME="py.test in Test_One_Key_Login and test_login02 Coverage Results" MODIFIED="1592874475254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_test_one_key_login_py.coverage" NAME="py.test in test_one_key_login.py Coverage Results" MODIFIED="1592877976235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/JSM_UI_Android$py_test_in_Test_Pwd_Login_Case_and_test_pwd_login06.coverage" NAME="py.test in Test_Pwd_Login_Case and test_pwd_login06 Coverage Results" MODIFIED="1592464585316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -42,15 +48,23 @@
     <favorites_list name="JSM_UI_Android" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="test_one_key_login.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/case/login_case/test_one_key_login.py">
+    <leaf>
+      <file leaf-file-name="test_update_message.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/case/wo_de_case/test_update_message.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6757679">
-              <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redact_message.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page/wo_de_module/redact_message.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.48175183">
+              <caret line="137" column="19" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,13 +88,13 @@
         <option value="$PROJECT_DIR$/case/test_one_key_login.py" />
         <option value="$PROJECT_DIR$/common/base_app.py" />
         <option value="$PROJECT_DIR$/run_all.py" />
-        <option value="$PROJECT_DIR$/page/login_module/pwd_login.py" />
-        <option value="$PROJECT_DIR$/page/wo_de_module/redact_message.py" />
-        <option value="$PROJECT_DIR$/case/wo_de_case/test_update_message.py" />
         <option value="$PROJECT_DIR$/case/login_case/test_pwd_login.py" />
-        <option value="$PROJECT_DIR$/page/login_module/one_key_login.py" />
-        <option value="$PROJECT_DIR$/case/login_case/test_one_key_login.py" />
         <option value="$PROJECT_DIR$/common/start.py" />
+        <option value="$PROJECT_DIR$/case/login_case/test_one_key_login.py" />
+        <option value="$PROJECT_DIR$/case/wo_de_case/test_update_message.py" />
+        <option value="$PROJECT_DIR$/page/login_module/pwd_login.py" />
+        <option value="$PROJECT_DIR$/page/login_module/one_key_login.py" />
+        <option value="$PROJECT_DIR$/page/wo_de_module/redact_message.py" />
       </list>
     </option>
   </component>
@@ -204,54 +218,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSM_UI_Android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSM_UI_Auto_Android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="case" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login_case" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".pytest_cache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSM_UI_Android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JSM_UI_Auto_Android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="case" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="login_case" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value=".pytest_cache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="v" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -273,8 +239,26 @@
       <recent name="D:\zhongyi\JSM_UI_Android\common" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.py.test in test_one_key_login.py">
-    <configuration default="false" name="py.test in Test_Update_Message and test_update_photo" type="tests" factoryName="py.test" temporary="true">
+  <component name="RunManager" selected="Python.redact_message">
+    <configuration default="false" name="one_key_login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page/login_module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="JSM_UI_Android" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page/login_module/one_key_login.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test in test_update_message.py" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -293,10 +277,10 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="testToRun" value="$PROJECT_DIR$/case/wo_de_case/test_update_message.py" />
-      <option name="keywords" value="Test_Update_Message and test_update_photo" />
+      <option name="keywords" value="" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="true" />
+      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="py.test in Test_Update_Message and test_update_nickname" type="tests" factoryName="py.test" temporary="true">
@@ -324,7 +308,7 @@
       <option name="USE_KEYWORD" value="true" />
       <method />
     </configuration>
-    <configuration default="false" name="py.test in Test_Update_Message and test_update_addresss" type="tests" factoryName="py.test" temporary="true">
+    <configuration default="false" name="py.test in Test_Update_Message" type="tests" factoryName="py.test" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -343,53 +327,28 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="testToRun" value="$PROJECT_DIR$/case/wo_de_case/test_update_message.py" />
-      <option name="keywords" value="Test_Update_Message and test_update_addresss" />
+      <option name="keywords" value="Test_Update_Message" />
       <option name="params" value="" />
       <option name="USE_PARAM" value="false" />
       <option name="USE_KEYWORD" value="true" />
       <method />
     </configuration>
-    <configuration default="false" name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="redact_message" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page/wo_de_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="JSM_UI_Android" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page/wo_de_module/redact_message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="py.test in test_one_key_login.py" type="tests" factoryName="py.test" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="JSM_UI_Android" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="testToRun" value="$PROJECT_DIR$/case/login_case/test_one_key_login.py" />
-      <option name="keywords" value="" />
-      <option name="params" value="" />
-      <option name="USE_PARAM" value="false" />
-      <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -586,19 +545,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in Test_Update_Message and test_update_photo" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in Test_Update_Message and test_update_nickname" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in Test_Update_Message and test_update_addresss" />
-      <item index="3" class="java.lang.String" itemvalue="Python.start" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in test_one_key_login.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python.one_key_login" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_update_message.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in Test_Update_Message and test_update_nickname" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in Test_Update_Message" />
+      <item index="4" class="java.lang.String" itemvalue="Python.redact_message" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test in test_one_key_login.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.start" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in Test_Update_Message and test_update_addresss" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in Test_Update_Message and test_update_nickname" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.py.test in Test_Update_Message and test_update_photo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.redact_message" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test in test_update_message.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.py.test in Test_Update_Message and test_update_nickname" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.py.test in Test_Update_Message" />
+        <item index="4" class="java.lang.String" itemvalue="Python.one_key_login" />
       </list>
     </recent_temporary>
   </component>
@@ -616,35 +575,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.18 at 15h 23m 53s.xml">
+    <history-entry file="py_test_in_Test_One_Key_Login_and_test_login01 - 2020.06.23 at 09h 58m 43s.xml">
+      <configuration name="py.test in Test_One_Key_Login and test_login01" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Test_Update_Message_and_test_update_nickname - 2020.06.23 at 10h 43m 28s.xml">
+      <configuration name="py.test in Test_Update_Message and test_update_nickname" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_Test_Update_Message_and_test_update_nickname - 2020.06.23 at 10h 47m 51s.xml">
+      <configuration name="py.test in Test_Update_Message and test_update_nickname" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.23 at 09h 56m 19s.xml">
       <configuration name="py.test in test_one_key_login.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.22 at 13h 54m 20s.xml">
+    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.23 at 10h 00m 03s.xml">
       <configuration name="py.test in test_one_key_login.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.22 at 13h 55m 38s.xml">
+    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.23 at 10h 02m 36s.xml">
       <configuration name="py.test in test_one_key_login.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.22 at 13h 59m 57s.xml">
+    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.23 at 10h 05m 05s.xml">
       <configuration name="py.test in test_one_key_login.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.22 at 14h 00m 23s.xml">
+    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.23 at 10h 08m 30s.xml">
       <configuration name="py.test in test_one_key_login.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.22 at 14h 05m 01s.xml">
-      <configuration name="py.test in test_one_key_login.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_update_message_py - 2020.06.23 at 10h 41m 44s.xml">
+      <configuration name="py.test in test_update_message.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.22 at 14h 05m 49s.xml">
-      <configuration name="py.test in test_one_key_login.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.22 at 14h 06m 59s.xml">
-      <configuration name="py.test in test_one_key_login.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_one_key_login_py - 2020.06.22 at 14h 11m 39s.xml">
-      <configuration name="py.test in test_one_key_login.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="py_test_in_test_pwd_login_py - 2020.06.18 at 15h 13m 04s.xml">
-      <configuration name="py.test in test_pwd_login.py" configurationId="tests" />
+    <history-entry file="py_test_in_test_update_message_py - 2020.06.23 at 10h 50m 10s.xml">
+      <configuration name="py.test in test_update_message.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -658,26 +617,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.178125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.178125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32090396" sideWeight="0.41809422" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36254108" sideWeight="0.5819058" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31106243" sideWeight="0.5819058" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -710,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -728,7 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -996,13 +952,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/wo_de_module/redact_message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03697479">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/base_app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.03697479">
@@ -1010,49 +959,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/login_module/pwd_login.py">
+    <entry file="file://$PROJECT_DIR$/common/start.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03697479">
-          <caret line="86" column="34" selection-start-line="86" selection-start-column="34" selection-end-line="86" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.40045506">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/case/wo_de_case/test_update_message.py">
+    <entry file="file://E:/python/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7781513">
-          <caret line="65" column="81" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="81" />
+        <state vertical-scroll-proportion="0.5719844">
+          <caret line="241" column="0" selection-start-line="241" selection-start-column="0" selection-end-line="241" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/case/login_case/test_pwd_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8134454">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.17405063">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page/login_module/one_key_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5176471">
-          <caret line="15" column="93" selection-start-line="15" selection-start-column="93" selection-end-line="15" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40045506">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding />
+        <state vertical-scroll-proportion="-0.52554744">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/case/login_case/test_one_key_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6757679">
-          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="65" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/login_module/pwd_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.80773604">
+          <caret line="78" column="0" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/case/wo_de_case/test_update_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/wo_de_module/redact_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48175183">
+          <caret line="137" column="19" selection-start-line="137" selection-start-column="19" selection-end-line="137" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>

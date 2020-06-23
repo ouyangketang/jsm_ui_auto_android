@@ -1,10 +1,11 @@
 from common.base_app import BaseApp
 from common.start import start_app
+import time
 
 class One_Key_login(BaseApp):
 
     def wait(self):
-        self.driver.implicitly_wait(15)
+        self.driver.implicitly_wait(10)
 
     def one_key_login01(self):
         '''第一条一键登录的测试用例'''
@@ -15,9 +16,13 @@ class One_Key_login(BaseApp):
         self.wait()
         self.driver.find_element_by_id("com.jsmapp.jsm:id/perfection_user_info_skip").click()
         self.wait()
-        self.driver.find_element_by_xpath("//*[@resource-id='com.jsmapp.jsm:id/ll_me']").click()
+        self.driver.find_element_by_xpath("//*[@text='取消']").click()
         self.wait()
-        self.driver.find_element_by_id("com.jsmapp.jsm:id/fragment_me_setup_layout").click()
+        self.driver.find_element_by_xpath("//*[@resource-id='com.jsmapp.jsm:id/ll_me']").click()
+        # self.driver.find_element_by_id("com.jsmapp.jsm:id/ll_me").click()
+        self.wait()
+        self.driver.find_element_by_xpath("//*[@resource-id='com.jsmapp.jsm:id/fragment_me_setup_layout']").click()
+        # self.driver.find_element_by_id("com.jsmapp.jsm:id/fragment_me_setup_layout").click()
         self.wait()
         self.driver.find_element_by_id("com.jsmapp.jsm:id/ubtExitapp").click()
 
@@ -37,7 +42,10 @@ class One_Key_login(BaseApp):
         self.wait()
         self.driver.find_element_by_xpath("//*[@resource-id='com.jsmapp.jsm:id/btn_cancel']").click()
         self.wait()
-        self.driver.find_element_by_xpath("//*[@resource-id='com.jsmapp.jsm:id/ll_me']").click()
+        # self.driver.find_element_by_xpath("//*[@text='取消']").click()
+        # self.wait()
+        self.driver.find_element_by_id("com.jsmapp.jsm:id/ll_me").click()
+        # self.driver.find_element_by_xpath("//*[@resource-id='com.jsmapp.jsm:id/ll_me']").click()
 
 if __name__ == '__main__':
     app = start_app()
@@ -49,5 +57,5 @@ if __name__ == '__main__':
     res = test_login.get_login_sucess()     #调用登录成功的函数
     print(res)
 
-    exp = "用户352"
+    exp = "用户5062"
     assert  res == exp

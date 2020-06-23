@@ -21,7 +21,7 @@ class Test_One_Key_Login():
 
         res = test_login.get_login_sucess()
         print(res)
-        exp = "用户352"
+        exp = "用户5062"
         assert res in exp
 
 if __name__ == '__main__':
