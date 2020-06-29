@@ -7,7 +7,7 @@ class Test_Pwd_Login_Case():
 
     @pytest.mark.po
     @flaky(max_runs=1,min_passes=1)
-    @allure.story("第一条测试用例:手机号格式错误")
+    # @allure.MASTER_HELPER.story("第一条测试用例:手机号格式错误")
     def test_pwd_login01(self):
         app = start_app()
         test_pwd_login = Test_Pwd_Login(app)
@@ -17,7 +17,7 @@ class Test_Pwd_Login_Case():
         exp = "账号不存在"
         assert res!= exp
 
-    @allure.story("第二条测试用例:手机号位数错误")
+    # @allure.MASTER_HELPER.story("第二条测试用例:手机号位数错误")
     def test_pwd_login02(self):
         app = start_app()
         test_pwd_login = Test_Pwd_Login(app)
@@ -27,7 +27,7 @@ class Test_Pwd_Login_Case():
         exp = "账号不存在"
         assert res!= exp
 
-    @allure.story("第三条测试用例:密码错误")
+    # @allure.MASTER_HELPER.story("第三条测试用例:密码错误")
     def test_pwd_login03(self):
         app = start_app()
         test_pwd_login = Test_Pwd_Login(app)
@@ -37,7 +37,7 @@ class Test_Pwd_Login_Case():
         exp = "密码错误"
         assert res!= exp
 
-    @allure.story("第五条用例:密码有空格")
+    # @allure.MASTER_HELPER.story("第五条用例:密码有空格")
     def test_pwd_login05(self):
         app = start_app()
         test_pwd_login = Test_Pwd_Login(app)
@@ -47,7 +47,7 @@ class Test_Pwd_Login_Case():
         exp = "密码格式错误"
         assert res!= exp
 
-    @allure.story("第六条用例:正确的手机号和密码，登录成功")
+    # @allure.MASTER_HELPER.story("第六条用例:正确的手机号和密码，登录成功")
     def test_pwd_login06(self):
         app = start_app()
         test_pwd_login = Test_Pwd_Login(app)
