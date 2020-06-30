@@ -46,13 +46,6 @@ class BaseApp():
         for i in range(n):
             self.driver.swipe(x1, y1, x1, y2, t)
 
-    def swipe_up(self, n=1):
-        x1 = self.size['width'] / 2
-        y1 = self.size['height'] * 3 / 4
-        x2 = self.size['width'] / 2
-        y2 = self.size['height'] / 4
-        for i in range(n):
-            self.driver.swipe(x1, y1, x2, y2, 2000)
 
     def swipeDown(self, t=500, n=1):
         '''向下滑动屏幕'''
