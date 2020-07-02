@@ -42,7 +42,7 @@ class BaseApp():
         l = self.driver.get_window_size()
         x1 = l['width'] * 0.5  # x坐标
         y1 = l['height'] * 0.75  # 起始y坐标
-        y2 = l['height'] * 0.2  # 终点y坐标
+        y2 = l['height'] * 0.15  # 终点y坐标
         for i in range(n):
             self.driver.swipe(x1, y1, x1, y2, t)
 

@@ -20,10 +20,129 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90bac012-eefd-48cb-87f9-bd4dcd56a80a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/JSM_UI_Android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JSM_UI_Android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/00a79b67-b4dc-407f-ab09-865cac73aacd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/022fafe2-432b-4b75-a8d2-ddb1f99ae8be-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/049693ca-e11b-4ff3-8e10-2bb3aa846b0d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/095167e0-3219-4828-8304-a79a376a4c78-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/0a743785-975d-49b0-bdc0-edb3156ab0ea-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/0b969289-caea-41ba-91cb-dfd24cb43b4e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/0d632742-320e-463e-a7a5-df8638f1f304-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/0fa0481d-9e35-482f-be13-f54bde1e387e-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/10814a80-7a56-45a9-81c5-d7273431a789-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/11060460-ddf2-4cdd-bb91-5f30aec19376-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/12fc9ff5-3075-4e24-84de-8695fad40be8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/1537498b-8e3c-40c3-a343-ad5151a5fa63-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/1aeeeedc-56f1-4e2d-a9fb-2db8ad0d5a1b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/1ef59578-e09c-4050-a9ea-f86b72272441-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2047497c-5ff9-41c2-af67-fc609002618f-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/20958826-ea05-4cf5-b43c-c9574a34c7b6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/22520bdb-352a-4e56-8bd3-15f4d2dcd416-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/26997afb-9aea-421b-b81e-a1a4d4f3b2a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/26d68d85-1ab8-4182-adab-ea24a7a108bb-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/297a089b-540b-451b-afff-f097ca86d797-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2c2cbc98-ff12-48e0-8876-c6d17d51bd38-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2d99cb64-732d-4e16-9595-e4d505937f11-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2ebaf1e0-72d4-44bc-b804-8ca6f5bf5f5d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2f8cd828-ac72-45da-8560-26ab2bbc7cd3-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/307c19eb-3c44-4d0c-b677-dddb91675a82-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/30a895d8-219f-40ef-b705-a47aa96ff6da-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/333b985e-ccb0-455f-b55b-f01b74f6d8f2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/34052d37-5e5c-4f09-abf4-5e032841fcd2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/37884afe-ca3d-4e88-bc3f-e600a1d9fec1-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/3a94793a-7b09-48ff-8bcd-968565565dd3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/3d94a297-204e-4386-8956-2c1d92de2c7d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/3ec0e021-0cd6-4e28-80ff-f72066e0117d-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/418429eb-f69f-4da0-b140-35055cc64047-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/418ab488-f572-49ae-b373-eee55d68c401-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/43d3b0ff-c42e-4541-95cb-ce97daf8d842-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/445e8c17-be42-49f8-aceb-4f62058e275f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/47e06545-f5ca-4074-9b50-0070a1ae5cdb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/49e2ceb1-ebfd-4783-832d-92afab7dcd84-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/4a808b2f-7a6a-44b6-8f9f-6ce57e13ab3e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/4d7b363d-d54b-4a9d-9dbd-c0b2ae366ecd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/4f12ec3d-49eb-499a-97ac-e078776b7bbe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/5394fae4-f7e7-4e03-a818-bd19e4cb1e32-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/56a6e481-1618-4df2-9b12-0a3ffe633321-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/5705a726-6813-4688-acd1-7ccae5b98a1e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/59809a42-166c-49ee-8021-0d00663dd4ad-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/5b5c5e73-be51-4d97-ba14-d0aae48b80a8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/5ebbc37d-6a63-4486-b683-c8cf72adb263-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/5ef5856f-8172-4f02-b7d9-f3f351df3399-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/5fde4217-3818-4a52-8158-8d3df71011c5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/60a6702c-0a55-48de-b19f-1d4974e3d304-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/631e0d4b-2b67-489f-badb-6f7d63b8482b-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/6947119e-0bcc-4566-a9e0-b938d7217414-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/6bf101c7-d989-47f2-898f-419423c7ce82-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/6fe9c5ec-104d-4dce-9a93-5996da2a2116-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/709d611d-e149-4dfa-9a8e-84496420bf07-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/70c7dd43-2e00-4d22-b27e-645a77b55fd6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/72e7911b-fe2a-487e-bf03-fe6fdba436f2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/732082a6-218b-4303-9a18-7568c9916b78-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/760492f2-8d1f-446b-ae6c-1fbeb0e4928c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/7741bf34-326a-4819-b8bd-465bee198ab3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/77a7ae57-eca5-4276-91ec-9035b3e895c2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/7b9fdeea-7e9b-41ac-af80-8a4c72ab03da-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/831e0227-8f11-432e-be44-fb9309cbc24f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/836b431d-c79b-434b-aafd-1a93f11cbcb6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/83e041a4-c8ec-4bf5-8a27-933e8f3aa8fc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/85e491a9-baa6-44d0-9351-30eef78733b1-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/8a7305e8-c2a8-49b3-b1fc-2792b11c9862-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/8acbf77b-e120-474b-87ab-b232c2ab38a6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/8bdac407-cdb1-4d27-adfc-a0b96dcefde4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/8c7fcdee-c586-46ed-aac9-6a9ee4292bcc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/8d88895f-1de5-4ab1-a48a-c58dc68e83ee-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/8e17b149-7e00-4387-bcc9-79639a4821a8-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/918249b9-0ab3-4a05-8c42-c3a48cfcb789-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/923ab5b5-10da-4213-8b7e-2168c94ae5f8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/9262659f-1a40-435a-992e-959a8e8d2aa6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/96676b16-e9c2-495c-80f5-dbc46d646459-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/99807461-dcee-43d4-bdee-3b5feb9abffa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/9ae7f6ae-cf00-42ba-8a6e-30c098dacd60-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/9e857e90-0325-40fa-90fa-69e21efd26fe-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/a1724a9a-8503-49c6-b293-38b491f89a1f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/a48343c8-9556-47ea-b6d3-8d6ba507fabd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/a911647b-d344-4007-aa46-989c98852ace-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/a9dafaff-5f14-4a44-be0b-f2c24f289631-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/ab610f65-b051-47b0-b698-a07460470e10-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/b23688dc-bc13-4d32-8187-0f060bec345f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/b7c3568f-0b65-42ce-9a84-132dd033880b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/b8273728-0d04-44b6-b342-212fbc5046ec-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/bddb25c7-ba32-4f2e-bba7-5e982a9d0351-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/be7b9b05-9de2-412c-af3f-70efc5558e10-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/be7c908c-de77-4391-b2b2-a6d01ac8584b-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/c11224ee-700a-45ef-91d2-a22f447d8542-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/c48e9081-8f4f-4abe-9725-93de51635d36-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/c6591a60-1ac3-4f69-8581-6b951a760147-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/c7bc4fe5-62fd-48b1-91a8-434db5a79c57-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/c8589f29-3b38-4098-865f-8e41b1673560-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/cd33c112-6006-49d4-b731-e86a77efb7ec-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/cfa63a10-6755-4e4e-a0f8-d1f643bc8c8e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/d12be2e7-2f43-4569-8b61-a6d7c6b48cb0-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/d1b3894d-5b5b-4a97-9fcf-d706b9891458-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/d27ea1ed-ce06-46b8-8721-5ab43c7ae6c1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/d325db6b-091e-4dcf-b643-667aec772f44-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/d7d6b643-0cca-42f2-aa18-af16ecd87629-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/d8b61ff3-2ea3-40da-b14a-3c60b619acdf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/d9d8d647-c282-4ede-89b9-ac50c792b61e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/dc338566-e290-4893-bf71-24b0b3a6a534-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/dea47792-54d0-42f3-a55c-2f9a7fc7b2bb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/e3f884e0-35ed-4b2a-8220-3705b8d6ddc2-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/fcad5ce1-7bea-478b-a657-712f534b321a-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/login_case/test_pwd_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/login_case/test_pwd_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/wo_de_case/test_redact_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/wo_de_case/test_redact_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/wo_de_case/test_redact_message_other.py" beforeDir="false" afterPath="$PROJECT_DIR$/case/wo_de_case/test_redact_message_other.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/wo_de_case/test_update_address.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/wo_de_case/test_update_date.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/wo_de_case/test_update_nickname.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/wo_de_case/test_update_photo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/case/wo_de_case/test_update_sex.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/common/base_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/base_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/login_module/pwd_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/login_module/pwd_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/wo_de_module/personal_information_module/redact_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/wo_de_module/personal_information_module/redact_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/wo_de_module/personal_information_module/redact_message_other.py" beforeDir="false" afterPath="$PROJECT_DIR$/page/wo_de_module/personal_information_module/redact_message_other.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,16 +209,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zhongyi\JSM_UI_Auto_Android" />
       <recent name="D:\zhongyi\JSM_UI_Android\report" />
       <recent name="D:\zhongyi\JSM_UI_Android\common" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\zhongyi\JSM_UI_Auto_Android" />
       <recent name="D:\zhongyi\JSM_UI_Auto_Android\page\wo_de_module\personal_information_module" />
       <recent name="D:\zhongyi\JSM_UI_Android\case\login_case" />
       <recent name="D:\zhongyi\JSM_UI_Android\case\wo_de_case" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.redact_message">
+  <component name="RunManager" selected="Python tests.pytest for test_redact_message.Test_Redact_Message.test_update_case06">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -207,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="redact_message" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pwd_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="JSM_UI_Android" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,12 +336,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page/wo_de_module/personal_information_module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/page/login_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page/wo_de_module/personal_information_module/redact_message.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/page/login_module/pwd_login.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,12 +417,12 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_redact_message.Test_Redact_Message.test_update_case07" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_pwd_login.Test_Pwd_Login_Case.test_pwd_login01" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="JSM_UI_Android" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/wo_de_case" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/login_case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -309,11 +430,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_redact_message.Test_Redact_Message.test_update_case07&quot;" />
+      <option name="_new_target" value="&quot;test_pwd_login.Test_Pwd_Login_Case.test_pwd_login01&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_update_address.Test_Update_Address.test_update_addresss" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_redact_message.Test_Redact_Message.test_update_case06" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="JSM_UI_Android" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,16 +447,16 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_update_address.Test_Update_Address.test_update_addresss&quot;" />
+      <option name="_new_target" value="&quot;test_redact_message.Test_Redact_Message.test_update_case06&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_update_address.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_pwd_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="JSM_UI_Android" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/wo_de_case" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case/login_case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -343,11 +464,11 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/wo_de_case/test_update_address.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/login_case/test_pwd_login.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_update_date.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_redact_message_other.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="JSM_UI_Android" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,24 +481,24 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/wo_de_case/test_update_date.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/wo_de_case/test_redact_message_other.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.redact_message" />
-      <item itemvalue="Python tests.pytest in test_update_address.py" />
-      <item itemvalue="Python tests.pytest for test_redact_message.Test_Redact_Message.test_update_case07" />
-      <item itemvalue="Python tests.pytest for test_update_address.Test_Update_Address.test_update_addresss" />
-      <item itemvalue="Python tests.pytest in test_update_date.py" />
+      <item itemvalue="Python.pwd_login" />
+      <item itemvalue="Python tests.pytest in test_pwd_login.py" />
+      <item itemvalue="Python tests.pytest for test_pwd_login.Test_Pwd_Login_Case.test_pwd_login01" />
+      <item itemvalue="Python tests.pytest in test_redact_message_other.py" />
+      <item itemvalue="Python tests.pytest for test_redact_message.Test_Redact_Message.test_update_case06" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.redact_message" />
-        <item itemvalue="Python tests.pytest in test_update_address.py" />
-        <item itemvalue="Python tests.pytest in test_update_date.py" />
-        <item itemvalue="Python tests.pytest for test_update_address.Test_Update_Address.test_update_addresss" />
-        <item itemvalue="Python tests.pytest for test_redact_message.Test_Redact_Message.test_update_case07" />
+        <item itemvalue="Python tests.pytest for test_redact_message.Test_Redact_Message.test_update_case06" />
+        <item itemvalue="Python tests.pytest in test_redact_message_other.py" />
+        <item itemvalue="Python tests.pytest in test_pwd_login.py" />
+        <item itemvalue="Python tests.pytest for test_pwd_login.Test_Pwd_Login_Case.test_pwd_login01" />
+        <item itemvalue="Python.pwd_login" />
       </list>
     </recent_temporary>
   </component>
@@ -393,15 +514,6 @@
       <updated>1592386734230</updated>
     </task>
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -435,26 +547,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593310631972" />
-    <state width="1515" height="249" key="GridCell.Tab.0.bottom" timestamp="1593422799329">
+    <state width="1515" height="290" key="GridCell.Tab.0.bottom" timestamp="1593669851513">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="249" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593422799329" />
-    <state width="1515" height="249" key="GridCell.Tab.0.center" timestamp="1593422799329">
+    <state width="1515" height="290" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593669851513" />
+    <state width="1515" height="290" key="GridCell.Tab.0.center" timestamp="1593669851513">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="249" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593422799329" />
-    <state width="1515" height="249" key="GridCell.Tab.0.left" timestamp="1593422799329">
+    <state width="1515" height="290" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593669851513" />
+    <state width="1515" height="290" key="GridCell.Tab.0.left" timestamp="1593669851512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="249" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593422799329" />
-    <state width="1515" height="249" key="GridCell.Tab.0.right" timestamp="1593422799329">
+    <state width="1515" height="290" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593669851512" />
+    <state width="1515" height="290" key="GridCell.Tab.0.right" timestamp="1593669851513">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="249" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593422799329" />
+    <state width="1515" height="290" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593669851513" />
+    <state width="1515" height="260" key="GridCell.Tab.1.bottom" timestamp="1593653572165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593653572165" />
+    <state width="1515" height="260" key="GridCell.Tab.1.center" timestamp="1593653572165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593653572165" />
+    <state width="1515" height="260" key="GridCell.Tab.1.left" timestamp="1593653572165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593653572165" />
+    <state width="1515" height="260" key="GridCell.Tab.1.right" timestamp="1593653572165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593653572165" />
     <state x="270" y="56" key="SettingsEditor" timestamp="1593480150664">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593480150664" />
+    <state x="325" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593653569615">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="325" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1593653569615" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1593328491865">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
