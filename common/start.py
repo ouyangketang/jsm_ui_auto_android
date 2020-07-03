@@ -1,3 +1,4 @@
+# coding:UTF-8
 from appium import webdriver
 desired_caps = {
     "platformName":"Android",

@@ -1,3 +1,4 @@
+# coding:UTF-8
 import pytest
 from appium import webdriver
 from common.start import desired_caps

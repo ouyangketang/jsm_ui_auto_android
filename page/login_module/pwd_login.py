@@ -1,3 +1,4 @@
+# coding:UTF-8
 from common.start import start_app
 from common.base_app import BaseApp
 import time

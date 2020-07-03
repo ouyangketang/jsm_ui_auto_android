@@ -1,3 +1,4 @@
+# coding:UTF-8
 from page.wo_de_module.personal_information_module.redact_message import Redact_Message
 from flaky import flaky
 import pytest

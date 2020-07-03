@@ -1,3 +1,4 @@
+# coding:UTF-8
 from page.login_module.pwd_login import Test_Pwd_Login
 import pytest
 from flaky import flaky
